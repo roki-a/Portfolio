@@ -2,7 +2,7 @@
 
 Personal portfolio site of Shane Mendoza, a Computer Science student at Holy Angel University working across AI/ML, data analytics and UI/UX design.
 
-**Live site:** https://roki-a.github.io/
+**Live site:** https://roki-a.github.io/Portfolio/
 
 ## Built with
 
